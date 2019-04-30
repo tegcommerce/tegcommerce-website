@@ -1,10 +1,10 @@
 # Site settings
 
 # Setup
-title:               adaptcommerce
+title:               tegcommerce
 tagline:             open source e-commerce platform
 description:         menu
-url:                 https://adaptcommerce.org # the base hostname & protocol for your site, e.g. http://example.com
+url:                 https://tegcommerce.org # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:             '' # the subpath of your site, e.g. /blog
 
 # Pagination Settings
@@ -34,9 +34,9 @@ jekyll_analytics:
 
 # About/contact
 author:
-  name: adaptcommerce
-  url: https://twitter.com/adaptcommerce
-  email: adaptcommerce@gmail.com
+  name: tegcommerce
+  url: https://twitter.com/tegcommerce
+  email: felipe.tegcommerce@gmail.com
 
 # Pages
 blog: '/blog'
@@ -56,4 +56,4 @@ plugins:
 
 # Custom vars
 github:
-  repo: https://github.com/adaptcommerce/adaptcommerce
+  repo: https://github.com/tegcommerce/tegcommerce

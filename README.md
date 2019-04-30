@@ -17,7 +17,7 @@
 ├── roadmap
 |  ├── in progress
 |  └── planned
-├── development tools for the adaptcommerce
+├── development tools for the tegcommerce
 ├── security
 ├── api
 ├── plugin

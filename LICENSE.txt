@@ -1,6 +1,6 @@
 The MIT License 
 
-Copyright © 2019 adaptcommerce
+Copyright © 2019 tegcommerce
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -23,4 +23,4 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-##### adaptcommerce website has been released under the mit license and is continued from <a href="http://jekyllrb.com" target="_blank">jekyll</a> using a theme adapted from <a href="http://getpoole.com/" target="_blank">poole</a>.
+##### tegcommerce website has been released under the mit license and is continued from <a href="http://jekyllrb.com" target="_blank">jekyll</a> using a theme adapted from <a href="http://getpoole.com/" target="_blank">poole</a>.
