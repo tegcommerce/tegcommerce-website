@@ -1,0 +1,27 @@
+# website tree structure
+
+|-----menu
+|    |-----home
+|    |-----about
+|    |-----project
+|    |-----download
+|    |-----community
+|    |-----documentation
+|    |-----product guide
+|    |-----collaborator guide
+|    |-----core team guide
+|    |-----installation
+|    |-----feature
+|    |-----roadmap
+|         |-----in progress
+|         |-----planned
+|    |-----development tools for the adaptcommerce
+|    |-----security
+|    |-----api
+|    |-----plugin
+|    |-----theme
+|    |-----blog
+|    |-----publication
+|    |-----award
+|    |-----social
+|    |-----license

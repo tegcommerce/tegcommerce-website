@@ -1,0 +1,59 @@
+# Site settings
+
+# Setup
+title:               adaptcommerce
+tagline:             open source e-commerce platform
+description:         menu
+url:                 https://adaptcommerce.org # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:             '' # the subpath of your site, e.g. /blog
+
+# Pagination Settings
+# jekyll-paginate (old one)
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+
+# jekyll-paginate-v2
+# pagination:
+#   enabled: true
+#   per_page: 3
+#   permalink: '/page/:num/'
+#   title: ' - page :num'
+#   limit: 0
+#   sort_field: 'date'
+#   sort_reverse: true
+
+# Produces a cleaner folder structure when using categories
+# permalink: /:year/:month/:title.html
+
+# Google Analytics
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-62517739-1
+    anonymizeIp: true
+
+# About/contact
+author:
+  name: adaptcommerce
+  url: https://twitter.com/adaptcommerce
+  email: adaptcommerce@gmail.com
+
+# Pages
+blog: '/blog'
+publication: '/publication'
+project: '/project'
+award: '/award'
+license: '/license'
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-analytics
+  - jekyll-seo-tag
+
+# Custom vars
+github:
+  repo: https://github.com/adaptcommerce/adaptcommerce
