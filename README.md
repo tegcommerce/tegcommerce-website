@@ -24,7 +24,6 @@
 ├── theme
 ├── blog
 ├── publication
-├── award
 ├── social
 └── license
 
