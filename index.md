@@ -85,7 +85,6 @@ tegcommerce is released under the terms of the [mit license](https://opensource.
 we thank our core team davi monteiro and felipe monteiro, and other incredible collaborators
 
 ## social
-profiles at
 [<i class="fab fa-github"/>](https://www.github.com/tegcommerce)
 [<i class="fab fa-linkedin"/>](https://www.linkedin.com/in/tegcommerce)
 [<i class="fab fa-facebook"/>](https://www.facebook.com/tegcommerce)
