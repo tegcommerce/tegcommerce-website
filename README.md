@@ -22,7 +22,6 @@
 ├── plugin
 ├── theme
 ├── blog
-├── publication
 ├── social
 └── license
 

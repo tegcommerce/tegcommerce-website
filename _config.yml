@@ -1,8 +1,8 @@
 # Site settings
 
 # Setup
-title:               tegcommerce
-tagline:             open source e-commerce platform
+title:               tegcommerce.org
+tagline:             
 description:         menu
 url:                 https://tegcommerce.org # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:             '' # the subpath of your site, e.g. /blog
@@ -40,7 +40,6 @@ author:
 
 # Pages
 blog: '/blog'
-publication: '/publication'
 license: '/license'
 
 # Build settings
