@@ -57,15 +57,16 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 any collaboration will be welcome
 
 are part of the community
-* [developers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU) at all levels and in all areas
-* [designers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU)
-* [engineers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU)
-* [translators](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU)
-* [event organizers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU)
-* [communicators and digital influencers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU)
-* [buyers and sellers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU)
-* [lawyers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU)
-* [others](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU)
+* [developers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI) at all levels and in all areas
+* [devops](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [designers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [engineers]https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [translators](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [event organizers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [communicators and digital influencers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [buyers and sellers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [lawyers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [others](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
 
 ideal for those who want
 
@@ -85,10 +86,10 @@ we thank our core team davi monteiro and felipe monteiro, and other incredible c
 
 ## social
 profiles at
-[<i class="fas fa-envelope"></i>](mailto:felipe.tegcommerce@gmail.com)
 [<i class="fab fa-github"/>](https://www.github.com/tegcommerce)
 [<i class="fab fa-linkedin"/>](https://www.linkedin.com/in/tegcommerce)
 [<i class="fab fa-facebook"/>](https://www.facebook.com/tegcommerce)
 [<i class="fab fa-instagram"/>](https://www.instagram.com/tegcommerce)
+[<i class="fab fa-slack"/>](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
 
 ##### for more information about him, you may use the left-side menu.
