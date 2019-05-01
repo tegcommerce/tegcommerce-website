@@ -91,5 +91,14 @@ profiles at
 [<i class="fab fa-facebook"/>](https://www.facebook.com/tegcommerce)
 [<i class="fab fa-instagram"/>](https://www.instagram.com/tegcommerce)
 [<i class="fab fa-slack"/>](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+[<i class="fab fa-telegram"/>](http://t.me/tegcommerce)
+[<i class="fab fa-twitter"/>](https://twitter.com/tegcommerce)
+[<i class="fab fa-myspace"/>](https://myspace.com/tegcommerce)
+[<i class="fab fa-digg"/>](http://digg.com/u/tegcommerce)
+[<i class="fab fa-tumblr"/>](https://www.tumblr.com/blog/tegcommerce)
+[<i class="fab fa-pinterest"/>](https://br.pinterest.com/tegcommerce/)
+[<i class="fab fa-reddit"/>](https://www.reddit.com/user/tegcommerce)
+[<i class="fab fa-flipboard"/>](https://flipboard.com/@tegcommerce)
+[<i class="fab fa-youtube"/>](https://www.youtube.com/channel/UChhXEZrxXqCVpSQ_FcwZ3Fw)
 
 ##### for more information about him, you may use the left-side menu.
