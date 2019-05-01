@@ -41,7 +41,6 @@ author:
 # Pages
 blog: '/blog'
 publication: '/publication'
-project: '/project'
 license: '/license'
 
 # Build settings

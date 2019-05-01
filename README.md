@@ -4,7 +4,6 @@
 .
 ├── home
 ├── about
-├── project
 ├── download
 ├── public      
 ├── community
