@@ -23,10 +23,7 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 1. `open` [http://localhost:3000/](http://localhost:3000)
 
 ## feature
-* free & open
-* decentralized & transparent
-* minimalistic, lean & mean
-* byos (bring your own server)
+`simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` 
 
 ## roadmap
 

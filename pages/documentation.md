@@ -4,7 +4,7 @@ title: documentation
 permalink: /documentation/
 ---
 
-[product guide](https://tegcommerce.org/documentation/product-guide)
+[application guide](https://tegcommerce.org/documentation/application-guide)
 <br>
 [community](https://tegcommerce.org/documentation/community)
 <br>
@@ -33,5 +33,3 @@ permalink: /documentation/
 [blog](https://tegcommerce.org/documentation/blog)
 <br>
 [social](https://tegcommerce.org/documentation/social)
-<br>
-[license](https://tegcommerce.org/documentation/license)
