@@ -6,5 +6,5 @@
 <h2 align="center">👋 welcome to tegcommerce.org</h2>
 <h4 align="center">open source e-commerce platform</h4>
 
-<p align="justify">[tegcommerce.org](https://tegcommerce.org) is a primary online resource for the tegcommerce community. It is improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to managing its evolution.</font>
+[tegcommerce.org](https://tegcommerce.org) is a primary online resource for the tegcommerce community. It is improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to managing its evolution.
 
