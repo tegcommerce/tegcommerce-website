@@ -5,7 +5,6 @@ permalink: /documentation/social/
 ---
 
 ### profiles at
-<br>
 [github](https://www.github.com/tegcommerce)
 <br>
 [linkedin](https://www.linkedin.com/in/tegcommerce)
