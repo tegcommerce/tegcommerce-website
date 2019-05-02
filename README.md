@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://tegcommerce.org/">
-    <img src="https://github.com/tegcommerce/tegcommerce-website/blob/master/public/apple-touch-icon-144-precomposed.png" alt="tegcommerce" width="125" height="125">
+    <img src="https://github.com/tegcommerce/tegcommerce-website/blob/master/public/teg.png" alt="tegcommerce" width="125" height="125">
   </a>
 </p>
 <h1 align="center">👋 welcome to tegcommerce.org</h1>
