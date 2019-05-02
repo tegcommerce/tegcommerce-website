@@ -19,8 +19,6 @@ permalink: /documentation/
 [feature](https://tegcommerce.org/documentation/feature)
 <br>
 [roadmap](https://tegcommerce.org/documentation/roadmap)
-- [in progress](https://tegcommerce.org/documentation/roadmap)
-- [planned](https://tegcommerce.org/documentation/roadmap)
 <br>
 [development tools](https://tegcommerce.org/documentation/development-tools)
 <br>
