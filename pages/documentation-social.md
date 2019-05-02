@@ -1,10 +1,11 @@
 ---
 layout: page
 title: social
-permalink: /social/
+permalink: /documentation/social/
 ---
 
-profiles at
+### profiles at
+<br>
 [github](https://www.github.com/tegcommerce)
 <br>
 [linkedin](https://www.linkedin.com/in/tegcommerce)
