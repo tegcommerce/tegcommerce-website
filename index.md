@@ -100,4 +100,4 @@ we thank our core team davi monteiro and felipe monteiro, and other incredible c
 [<i class="fab fa-flipboard"/>](https://flipboard.com/@tegcommerce)
 [<i class="fab fa-youtube"/>](https://www.youtube.com/channel/UChhXEZrxXqCVpSQ_FcwZ3Fw)
 
-##### for more information about him, you may use the left-side menu.
+###### for more information about him, you may use the left-side menu.
