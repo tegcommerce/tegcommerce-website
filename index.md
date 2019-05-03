@@ -22,25 +22,57 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 1. `sudo npm start`
 1. `open` [http://localhost:3000/](http://localhost:3000)
 
+## application guide
+`simple` `free` `open` `everyone` `transparent` `decentralized` `collaborative` `inclusive` `minimalistic` `lean` `clear` `mean` `responsive` `progressive` `lifetime` `adaptable` `customizable` `light` `installable` `secure` `friendly` `intuitive` `integrated` `direct` `objective` `specialized` `focused` `basic` `clean` `automated` `cheap` `economic` `easy` `practical` `convenient` `innovate` `useful` `updated` `agile` `reasonable` `proportional` `meritocracy` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` `` 
+
+
+
+
+
+
+
+
 ## feature
-`simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` `simple` `free` `open` `transparent` `decentralized` `collaborative` `minimalistic` `lean` `mean` `simple` `objective` `byos` 
+* single-page app
+* progressive web app
+* byos (bring your own server)
 
 ## roadmap
 
 ### in progress
-* single-page app
-* progressive web app
 * admin dashboard
 * app store
 * chat
 * chatbot
-* integration with erp
-* integration with crm
+* integration with erp platforms
+* integration with crm platforms
 * integration with marketplace platforms
 * integration with classified platforms
 * integration with delivery service companies
 * integration with payment intermediaries
 * integration with hosting companies
+* integration with affiliate platforms
+* integration with social networks
+* integration with google services
+* integration with facebook services
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ### planned
 * fingerprint biometrics
@@ -48,6 +80,34 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 * image biometrics
 * voice search
 * image search
+* hosting
+* domain
+* ssl certificate
+* cdn
+* affiliate
+* dropshipping
+* transparent checkout
+* one page checkout
+* power checkout
+* freight calculator
+* order tracking
+* e-mail marketing
+* qr code
+* crm system
+* erp system
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
 
 ## community
 
