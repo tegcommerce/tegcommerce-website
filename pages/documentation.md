@@ -16,8 +16,6 @@ permalink: /documentation/
 <br>
 [installation](https://tegcommerce.org/documentation/installation)
 <br>
-[feature](https://tegcommerce.org/documentation/feature)
-<br>
 [roadmap](https://tegcommerce.org/documentation/roadmap)
 <br>
 [development tools](https://tegcommerce.org/documentation/development-tools)
@@ -29,7 +27,5 @@ permalink: /documentation/
 [plugin](https://tegcommerce.org/documentation/plugin)
 <br>
 [theme](https://tegcommerce.org/documentation/theme)
-<br>
-[blog](https://tegcommerce.org/documentation/blog)
 <br>
 [social](https://tegcommerce.org/documentation/social)
