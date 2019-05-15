@@ -35,19 +35,19 @@ tegcommerce has open source, what's this?
 
 where can I download tegcommerce?
 :   
-    *[download](https://github.com/tegcommerce/tegcommerce/archive/master.zip) the latest version of tegcommerce.*
+    *[download](https://github.com/tegcommerce/tegcommerce/archive/master.zip) the latest version of tegcommerce*
 
 how much does tegcommerce cost?
 :   
-    *tegcommerce is 100% free. without monthly fees. without commissions on their sales.*
+    *tegcommerce is 100% free. without monthly fees. without commissions on their sales*
 
 why is tegcommerce free?
 :   
-    *we believe that everyone should have the possibility to open a free virtual store. a system of donations and the formation of partnerships with leaders of the e-commerce sector allows us to share our powerful platform for free with everyone. these strategic partnerships provide our users with sophisticated features and financially support the progress and growth of tegcommerce.*
+    *we believe that everyone should have the possibility to open a free virtual store. a system of donations and the formation of partnerships with leaders of the e-commerce sector allows us to share our powerful platform for free with everyone. these strategic partnerships provide our users with sophisticated features and financially support the progress and growth of tegcommerce*
 
 who use tegcommerce?
 :   
-    *tegcommerce has as its guide that commerce is for everyone, so the platform is created by everyone and for everyone.*
+    *tegcommerce has as its guide that commerce is for everyone, so the platform is created by everyone and for everyone*
 
 i have other questions or need help 
 :   
@@ -65,7 +65,7 @@ how can I join the community?
 :   
     *participate in our community in [telegram](https://t.me/tegcommerce) and [slack](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)*
 
-I want to follow tegcommerce in social media.
+i want to follow tegcommerce in social media
 :   
     *[<i class="fab fa-github"/>](https://www.github.com/tegcommerce)
 [<i class="fab fa-linkedin"/>](https://www.linkedin.com/in/tegcommerce)
