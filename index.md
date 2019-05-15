@@ -114,7 +114,7 @@ we thank our core team davimonteiro, devfelipemonteiro, adamwairdev, bradlincoln
 ## social
 [<i class="fab fa-github"/>](https://www.github.com/tegcommerce)
 [<i class="fab fa-linkedin"/>](https://www.linkedin.com/in/tegcommerce)
-[<i class="fab fa-facebook"/>](https://www.facebook.com/tegcommerce)
+[<i class="fab fa-facebook"/>](https://www.facebook.com/tegcommerce-657115908060429)
 [<i class="fab fa-instagram"/>](https://www.instagram.com/tegcommerce)
 [<i class="fab fa-slack"/>](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
 [<i class="fab fa-telegram"/>](http://t.me/tegcommerce)
