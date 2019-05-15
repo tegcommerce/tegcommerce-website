@@ -11,7 +11,7 @@ what is tegcommerce?
 
 what is the purpose of tegcommerce?
 :   
-    *from brazil to the world's largest open source e-commerce platform*
+    *from brazil to the world an largest open source e-commerce platform*
 
 who started the tegcommerce project?
 :   
