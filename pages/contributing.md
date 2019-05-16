@@ -4,8 +4,6 @@ title: contributing
 permalink: /contributing/
 ---
 
-# contributing to tegcommerce ✨
-
 tegcommerce is an open source e-commerce platform. everyone is welcome and even encouraged to contribute with their own improvements
 
 tegcommerce is written mostly in javascript com reactjs and nodejs, html and css
