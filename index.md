@@ -11,6 +11,7 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 * npm (> = 5.x)
 * nodejs (> = 8.x)
 * reactjs
+* redux
 * postgresql
 
 ## installation
