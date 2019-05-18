@@ -108,7 +108,7 @@ ideal for those who want:
 * learn, develop and excel personally and professionally
 
 ## documentation
-check out [tegcommerce documentation](link)
+check out [tegcommerce documentation](https://tegcommerce.org/documentation/)
 
 ## license
 tegcommerce is released under the terms of the [mit license](https://opensource.org/licenses/MIT)
