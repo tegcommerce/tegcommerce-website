@@ -12,13 +12,21 @@ there are many ways to contribute to the tegcommerce project!
 
 - answering questions on [github](https://github.com/tegcommerce)
 - answering questions on [telegram](https://t.me/tegcommerce)
-- submitting fixes, updates, improvements, and enhancements in the code
-- submitting fixes, updates, improvements, and enhancements in the [website](https://github.com/tegcommerce/tegcommerce-website)
-- submitting fixes, updates, improvements, and enhancements in the documentation
-- submitting fixes, updates, improvements, and enhancements in the [wiki](https://github.com/tegcommerce/tegcommerce-wiki)
-- recruiting members to the core team
+- creating, correcting, updating, improving and improving the [code](https://github.com/tegcommerce/tegcommerce)
+- creating, correcting, updating, improving and improving the [website](https://github.com/tegcommerce/tegcommerce-website)
+- creating, correcting, updating, improving and improving the [documentation](https://github.com/tegcommerce/tegcommerce-documentation)
+- creating, correcting, updating, improving and improving the [contributing](https://github.com/tegcommerce/tegcommerce-contributing)
+- creating, correcting, updating, improving and improving the [requisite](https://github.com/tegcommerce/tegcommerce-requisite)
+- creating, correcting, updating, improving and improving the [demo](https://github.com/tegcommerce/tegcommerce-demo)
+- creating, correcting, updating, improving and improving the [chat](https://github.com/tegcommerce/tegcommerce-chat)
+- creating, correcting, updating, improving and improving [themes](https://github.com/tegcommerce/tegcommerce-theme)
+- creating, correcting, updating, improving and enhancing [plugins](https://github.com/tegcommerce/tegcommerce-plugin)
+- recruiting members to the [organization](https://github.com/orgs/tegcommerce/people)
+- recruiting members to the [core team](https://github.com/orgs/tegcommerce/teams)
 - creating [issues](https://github.com/tegcommerce/tegcommerce/issues)
-- interacting with the [community](https://t.me/tegcommerce)
+- interacting with the [community](https://github.com/tegcommerce/tegcommerce-community)
+    - [brazilian community [pt]](https://t.me/tegcommerce)
+    - [international community [en]](https://t.me/tegcommerce_en)
 
 if you wish to contribute within github, you should ideally be familiar with git, the source code management system that tegcommerce uses, with the official repository being hosted on github:
 * you can learn more about git here: http://try.github.io/ (there are many tutorials available on the Web)
