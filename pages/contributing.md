@@ -52,6 +52,54 @@ remember if: contributions are always welcome, no matter how large or small
 
 thank you for your help in making tegcommerce even better!
 
+## requirement
+* git
+* npm (> = 5.x)
+* nodejs (> = 8.x)
+* reactjs
+* redux
+* postgresql
+
+## installation
+1. `make sure you have installed` [nodejs](https://nodejs.org/en/download/) 
+1. `git clone git@github.com:tegcommerce/tegcommerce`
+1. `cd tegcommerce`
+1. `sudo npm install`
+1. `sudo npm start`
+1. `open` [http://localhost:3000/](http://localhost:3000)
+
+## application guide
+`simple` `free` `open` `everyone` `transparent` `decentralized` `collaborative` `inclusive` `minimalistic` `lean` `clear` `mean` `responsive` `progressive` `lifetime` `adaptable` `customizable` `light` `installable` `secure` `friendly` `intuitive` `integrated` `direct` `objective` `specialized` `focused` `basic` `clean` `automated` `cheap` `economic` `easy` `practical` `convenient` `innovate` `useful` `updated` `agile` `reasonable` `proportional` `meritocracy`
+
+## community
+
+any collaboration will be welcome!
+
+[brazilian community [pt]](https://t.me/tegcommerce)
+
+[international community [en]](https://t.me/tegcommerce_en)
+
+are part of the community:
+* developers at all levels and in all areas
+* devops
+* designers
+* translators
+* event organizers
+* communicators and digital influencers
+* buyers and sellers
+* lawyers
+* others
+
+ideal for those who want:
+
+* collaborate when and where you want
+* collaborate on open source project that positively impact the world
+* meet different people and participate in a plural and tolerant world-class team
+* learn, develop and excel personally and professionally
+
+## documentation
+check out [tegcommerce documentation](https://tegcommerce.org/documentation/)
+
 ## interact with the community
 
 [github](https://www.github.com/tegcommerce)<br />
