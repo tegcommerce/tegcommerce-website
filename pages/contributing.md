@@ -16,7 +16,7 @@ there are many ways to contribute to the tegcommerce project!
 - create, correct, update, improve and improve the [website](https://github.com/tegcommerce/tegcommerce-website)
 - create, correct, update, improve and improve the [documentation](https://github.com/tegcommerce/tegcommerce-documentation)
 - create, correct, update, improve and improve the [contributing](https://github.com/tegcommerce/tegcommerce-contributing)
-- create, correct, update, improve and improve the [requisite](https://github.com/tegcommerce/tegcommerce-requisite)
+- create, correct, update, improve and improve the [requirement](https://github.com/tegcommerce/tegcommerce-requirement)
 - create, correct, update, improve and improve the [demo](https://github.com/tegcommerce/tegcommerce-demo)
 - create, correct, update, improve and improve the [chat](https://github.com/tegcommerce/tegcommerce-chat)
 - create, correct, update, improve and improve [themes](https://github.com/tegcommerce/tegcommerce-theme)
