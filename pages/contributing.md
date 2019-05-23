@@ -14,7 +14,7 @@ there are many ways to contribute to the tegcommerce project!
 - answer questions on [telegram](https://t.me/tegcommerce)
 - create, correct, update, improve and improve the [code](https://github.com/tegcommerce/tegcommerce)
 - create, correct, update, improve and improve the [website](https://github.com/tegcommerce/tegcommerce-website)
-- create, correct, update, improve and improve the [documentation](https://github.com/tegcommerce/tegcommerce-documentation)
+- create, correct, update, improve and improve the [documentation](https://github.com/tegcommerce)
 - create, correct, update, improve and improve the [contributing](https://github.com/tegcommerce/tegcommerce-contributing)
 - create, correct, update, improve and improve the [requirement](https://github.com/tegcommerce/tegcommerce-requirement)
 - create, correct, update, improve and improve the [demo](https://github.com/tegcommerce/tegcommerce-demo)
