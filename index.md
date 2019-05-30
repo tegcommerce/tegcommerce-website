@@ -10,8 +10,8 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 * git
 * npm (> = 5.x)
 * nodejs (> = 8.x)
+* expressjs
 * reactjs
-* redux
 * postgresql
 
 ## installation
@@ -21,6 +21,10 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 1. `sudo npm install`
 1. `sudo npm start`
 1. `open` [http://localhost:3000/](http://localhost:3000)
+
+##### alternative one-click online ide
+https://gitpod.io/#https://github.com/tegcommerce/tegcommerce
+###### note: gitpod launches ready-to-code dev environments from any github page.
 
 ## application guide
 `simple` `free` `open` `everyone` `transparent` `decentralized` `collaborative` `inclusive` `minimalistic` `lean` `clear` `mean` `responsive` `progressive` `lifetime` `adaptable` `customizable` `light` `installable` `secure` `friendly` `intuitive` `integrated` `direct` `objective` `specialized` `focused` `basic` `clean` `automated` `cheap` `economic` `easy` `practical` `convenient` `innovate` `useful` `updated` `agile` `reasonable` `proportional` `meritocracy`
@@ -39,19 +43,26 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 * integration with erp platforms
 * integration with crm platforms
 * integration with marketplace platforms
+  * integration with mercado livre
+  * integration with mercado livre store
 * integration with classified platforms
 * integration with delivery service companies
-* integration with payment intermediaries
+* inntegration with payment intermediaries
 * integration with hosting companies
 * integration with affiliate platforms
 * integration with social networks
 * integration with google services
 * integration with facebook services
+  * integration with facebook store
 * api for plugins
 * spam blocker
 * search filter products
 * product recommendation
 * content block editor
+* simplified installation via packages
+  * snap/snappy
+  * flatpak
+  * appimage
 
 ### planned
 * affiliate
@@ -62,15 +73,10 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 * power checkout
 * freight calculator
 * order tracking
-* e-mail marketing
+* email marketing
 * qr code
 * crm system
 * erp system
-* conversational commerce with chat and chatbot
-* vr commerce with virtual reality and augmented virtual reality
-* network of stores on a single tegcommerce installation
-* integrated backup system with cloud storage services
-* prevent brute force password discovery
 * app with fingerprint biometrics
 * app with voice biometrics
 * app with image biometrics
@@ -80,6 +86,12 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 * domain
 * ssl certificate
 * cdn
+* conversational commerce with chat and chatbot
+* vr commerce with virtual reality and augmented virtual reality
+* network of stores on a single tegcommerce installation
+* integrated backup system with cloud storage services
+* prevent brute force password discovery
+* internet of things
 * blockchain
 
 ## community
@@ -109,13 +121,13 @@ ideal for those who want:
 * learn, develop and excel personally and professionally
 
 ## documentation
-check out [tegcommerce documentation](https://tegcommerce.org/documentation/)
+check out [tegcommerce documentation](https://github.com/tegcommerce)
+
+## contributing
+check out how to [contribute](https://github.com/tegcommerce/tegcommerce-contributing)
 
 ## license
 tegcommerce is released under the terms of the [mit license](https://opensource.org/licenses/MIT)
-
-## credit
-we thank our core team davimonteiro, devfelipemonteiro, adamwairdev, bradlincoln, christie201, jameselbourn, loubrazier, michaelminarwa, richardlond, rudysing, setkinanne, and other incredible collaborators
 
 ## social
 [<i class="fab fa-github"/>](https://www.github.com/tegcommerce)
