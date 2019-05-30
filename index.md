@@ -55,6 +55,7 @@ open source e-commerce platform javascript full stack with reactjs & nodejs
 
 ### planned
 * affiliate
+* theme default with page builder
 * dropshipping
 * transparent checkout
 * one page checkout
