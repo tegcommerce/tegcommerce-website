@@ -13,10 +13,6 @@ what is the purpose of tegcommerce?
 :   
     *from brazil to the world an largest open source e-commerce platform*
 
-who started the tegcommerce project?
-:   
-    *[felipe monteiro](https://github.com/devfelipemonteiro) and [davi monteiro](https://github.com/davimonteiro)*
-
 where did the tegcommerce project start?
 :   
     *in brazil*
